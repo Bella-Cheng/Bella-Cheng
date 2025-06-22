@@ -89,7 +89,8 @@ Vue 3, Tailwind CSS, daisyUI
 
 ### 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhp951320@gmail.com)
-[![HackMD](https://img.shields.io/badge/HackMD-00C792?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@BellaCheng)
+[![Email](https://img.shields.io/badge/Email-me@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhp951320@gmail.com)  
+[![HackMD](https://img.shields.io/badge/HackMD-%E2%80%94%20BellaCheng-8A2BE2?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@BellaCheng)
+
 
 
