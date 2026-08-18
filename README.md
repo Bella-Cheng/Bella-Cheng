@@ -1,7 +1,6 @@
 # Hello, I'm Bella Cheng 👋 
 
 ##  Front-end Engineer
-Hi, I'm Bella 👋
 I'm a Front-End Developer focused on building web applications with Vue.js, TypeScript, and Quasar. I have hands-on experience with API integration, state management, responsive web development, and building maintainable user interfaces.
 ---
 
